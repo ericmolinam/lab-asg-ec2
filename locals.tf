@@ -1,5 +1,5 @@
 locals {
-  fqdn = "old-company.org"
+  fqdn = "ericmolinam.com"
   env  = "dev"
 
   region   = "eu-west-1"
